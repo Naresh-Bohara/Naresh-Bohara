@@ -47,6 +47,6 @@
   <li><a href="https://github.com/Naresh-Bohara/Ecommerce-Website-code" target="_blank">E-commerce Website</a></li>
   <li><a href="https://textutils-nb.netlify.app" target="_blank">TextUtils</a></li>
   <li><a href="https://github.com/Naresh-Bohara/X" target="_blank">Twitter UI Clone</a></li>
-  <li><a href="http://cloudscribe.com" target="_blank">Cloudscribe</a></li>
+  <li><a href="https://naresh-bohara.com.np/project/6" target="_blank">Cloudscribe</a></li>
   <li><a href="http://farwesttechstore.com.np" target="_blank">Farwest Tech Store</a></li>
 </ul>
