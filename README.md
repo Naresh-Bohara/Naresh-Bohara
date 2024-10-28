@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from Nepal</h3>
 
 <div align="center">
-  <img src="https://naresh-bohara.com.np/assets/logo3-O_p_glfc.jpg" alt="Profile Image" width="150" height="150" />
+  <img src="https://res.cloudinary.com/dz3zqxh62/image/upload/v1730119815/users/ziv7gxhcg2ej1himtwtj.png" alt="Profile Image" width="150" height="150" />
 </div>
 
 <p align="center">
