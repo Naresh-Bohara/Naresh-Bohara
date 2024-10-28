@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from Nepal</h3>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dz3zqxh62/image/upload/v1730120477/users/f7olb3fpm6ytehnuhkfy.png" alt="Profile Image" width="100%"/>
+  <img src="https://res.cloudinary.com/dz3zqxh62/image/upload/v1730126525/users/usgh2wgm6y5fnkhyhziv.png" alt="Profile Image" width="100%"/>
 </div>
 
 <p align="center">
