@@ -2,31 +2,30 @@
 <h3 align="center">A passionate MERN Stack Developer from Nepal</h3>
 
 <div align="center">
-  <img src="https://naresh-bohara.com.np/assets/logo3-O_p_glfc.jpg" alt="Profile Image" width="150" height="150"  />
+  <img src="https://naresh-bohara.com.np/assets/logo3-O_p_glfc.jpg" alt="Profile Image" width="150" height="150" />
 </div>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naresh-bohara&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-bohara" />
 </p>
 
-- 🔭 I’m currently working on [Farwest Tech Store](http://farwesttechstore.com.np)
+- 🔭 I’m currently working on [Farwest Tech Store](http://farwesttechstore.com.np){:target="_blank"}
 - 🌱 I’m currently learning **Next.js, Three.js**
 - 👯 I’m looking to collaborate on **MERN Projects**
 - 🤝 I’m seeking help with **Cloud Platforms**
-- 👨‍💻 All of my projects are available at [naresh-bohara.com.np](http://naresh-bohara.com.np)
-- 📝 I regularly write articles on [nareshbytes.com](http://nareshbytes.com)
+- 👨‍💻 All of my projects are available at [naresh-bohara.com.np](http://naresh-bohara.com.np){:target="_blank"}
+- 📝 I regularly write articles on [nareshbytes.com](http://nareshbytes.com){:target="_blank"}
 - 💬 Ask me about **React, Node.js, Express.js**
 - 📫 How to reach me: **nareshbohara0533@gmail.com**
-- 📄 Know about my experiences [here](https://res.cloudinary.com/dns4bpoho/image/upload/v1726149712/MY_RESUME/nfixrglykjxbyulsgo3l.jpg)
+- 📄 Know about my experiences [here](https://res.cloudinary.com/dns4bpoho/image/upload/v1726149712/MY_RESUME/nfixrglykjxbyulsgo3l.jpg){:target="_blank"}
 - ⚡ Fun fact: **JavaScript was created in just 10 days! Brendan Eich developed JavaScript in only 10 days in 1995. Initially called Mocha, it’s now one of the most widely used programming languages in the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/nareshbohara113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naresh-bohara" height="30" width="40" target="_blank" /></a>
-  <a href="https://www.linkedin.com/in/naresh-bohara-108184261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naresh-bohara" height="30" width="40"  target="_blank"  /></a>
-  <a href="https://www.facebook.com/profile.php?id=100056763829349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naresh-bohara" height="30" width="40"  target="_blank"  /></a>
-  <a href="https://instagram.com/nareshbohara113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh-bohara" height="30" width="40" /></a>
+  <a href="https://x.com/nareshbohara113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naresh-bohara" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/naresh-bohara-108184261/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naresh-bohara" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100056763829349" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naresh-bohara" height="30" width="40" /></a>
+  <a href="https://instagram.com/nareshbohara113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh-bohara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,4 +50,3 @@
   <li><a href="http://cloudscribe.com" target="_blank">Cloudscribe</a></li>
   <li><a href="http://farwesttechstore.com.np" target="_blank">Farwest Tech Store</a></li>
 </ul>
-
