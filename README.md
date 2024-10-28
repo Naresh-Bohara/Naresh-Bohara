@@ -9,15 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=naresh-bohara&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-bohara" />
 </p>
 
-- 🔭 I’m currently working on [Farwest Tech Store](http://farwesttechstore.com.np){:target="_blank"}
+- 🔭 I’m currently working on [Farwest Tech Store](http://farwesttechstore.com.np)
 - 🌱 I’m currently learning **Next.js, Three.js**
 - 👯 I’m looking to collaborate on **MERN Projects**
 - 🤝 I’m seeking help with **Cloud Platforms**
-- 👨‍💻 All of my projects are available at [naresh-bohara.com.np](http://naresh-bohara.com.np){:target="_blank"}
-- 📝 I regularly write articles on [nareshbytes.com](http://nareshbytes.com){:target="_blank"}
+- 👨‍💻 All of my projects are available at [naresh-bohara.com.np](http://naresh-bohara.com.np)
+- 📝 I regularly write articles on [nareshbytes.com](http://nareshbytes.com)
 - 💬 Ask me about **React, Node.js, Express.js**
 - 📫 How to reach me: **nareshbohara0533@gmail.com**
-- 📄 Know about my experiences [here](https://res.cloudinary.com/dns4bpoho/image/upload/v1726149712/MY_RESUME/nfixrglykjxbyulsgo3l.jpg){:target="_blank"}
+- 📄 Know about my experiences [here](https://res.cloudinary.com/dns4bpoho/image/upload/v1726149712/MY_RESUME/nfixrglykjxbyulsgo3l.jpg)
 - ⚡ Fun fact: **JavaScript was created in just 10 days! Brendan Eich developed JavaScript in only 10 days in 1995. Initially called Mocha, it’s now one of the most widely used programming languages in the world.**
 
 <h3 align="left">Connect with me:</h3>
