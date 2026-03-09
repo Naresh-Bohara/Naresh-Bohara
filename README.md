@@ -14,9 +14,9 @@ Building scalable and modern web applications
 # 🚀 About Me
 
 - 💻 Full Stack Developer specializing in **MERN Stack & Spring Boot**
-- 🔧 Experienced in **REST APIs, authentication, scalable systems**
-- 🧠 Strong knowledge of **backend architecture and databases**
-- 🎓 Currently pursuing **B.Sc. CSIT**
+- 🔧 Experienced in building **REST APIs, authentication systems, dashboards, and scalable applications**
+- 🧠 Strong knowledge of **backend architecture and database design**
+- 🎓 Currently pursuing **B.Sc. CSIT (Far Western University)**
 - 🤝 Open to **internships, freelance work, and collaborations**
 
 ---
@@ -26,9 +26,9 @@ Building scalable and modern web applications
 ### 🚨 NagarAlert – Civic Issue Reporting Platform
 **Tech:** MERN Stack, JWT, Geolocation APIs  
 
-- Citizens report municipal issues with photo & location
+- Citizens can report municipal issues with photos and location
 - Role-based dashboards for municipality staff
-- Secure REST APIs with authentication
+- Secure REST API architecture
 
 🔗 https://github.com/Naresh-Bohara/NagarAlert
 
@@ -37,7 +37,7 @@ Building scalable and modern web applications
 ### 📚 LMS-Nepal – Learning Management System
 **Tech:** Next.js, Node.js, MongoDB, eSewa  
 
-- Course management & progress tracking
+- Course management and student progress tracking
 - eSewa payment integration
 - Real-time chat and analytics dashboard
 
@@ -46,11 +46,11 @@ Building scalable and modern web applications
 ---
 
 ### 🛒 Farwest Tech Store – E-commerce Platform
-**Tech:** MERN Stack
+**Tech:** MERN Stack  
 
 - Product catalog and order management
-- Admin dashboard & analytics
-- Payment integration
+- Admin dashboard with analytics
+- Payment integration system
 
 🌐 http://farwesttechstore.com.np
 
@@ -80,11 +80,19 @@ Building scalable and modern web applications
 
 ---
 
-# 🐍 Contribution Snake
+# 📚 Education
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Naresh-Bohara/Naresh-Bohara/output/github-contribution-grid-snake.svg"/>
-</p>
+🎓 **B.Sc. CSIT**  
+Far Western University, Nepal  
+2022 – 2026
+
+---
+
+# 📜 Certifications
+
+- MERN Stack Development Training – Broadway Infosys  
+- Java Training Package – Broadway Infosys  
+- Full-Stack Web Development Bootcamp – Udemy  
 
 ---
 
