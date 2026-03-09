@@ -1,128 +1,151 @@
-<h1 align="center">👋 Hi, I'm Naresh Bohara</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack & Java Spring Boot Specialist</h3>
-<h4 align="center">📍 Dhangadhi, Nepal | Building Scalable Web Applications</h4>
-
+<h1 align="center">Hi 👋, I'm Naresh Bohara</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Spring Boot</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naresh-bohara&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-bohara" />
-  <a href="https://twitter.com/nareshbohara113"><img src="https://img.shields.io/twitter/follow/nareshbohara113?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  Building scalable, secure, and user-focused web applications from Nepal 🇳🇵
 </p>
 
-<div align="center">
-  <a href="https://naresh-bohara.com.np">
-    <img src="https://res.cloudinary.com/dz3zqxh62/image/upload/v1730126525/users/usgh2wgm6y5fnkhyhziv.png" alt="Naresh Bohara" width="60%"/>
+<p align="center">
+  <a href="https://github.com/Naresh-Bohara">
+    <img src="https://komarev.com/ghpvc/?username=Naresh-Bohara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-</div>
-
-## 📋 Professional Summary
-**Full Stack Developer** with hands-on experience in **MERN Stack** and **Java Spring Boot**, specializing in building **scalable, secure, and high-performance web applications**. Experienced in full-cycle development from requirement analysis to deployment. Strong understanding of **RESTful APIs, authentication, database design, and modern development practices**.
+  <a href="https://linkedin.com/in/naresh-bohara">
+    <img src="https://img.shields.io/badge/LinkedIn-Naresh%20Bohara-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nareshbohara.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://naresh-bohara.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-## 💼 Work Experience
+## 🚀 About Me
 
-### 🔹 MERN Developer Intern – CloudTech Services, Kathmandu
+- 💻 Full Stack Developer with hands-on experience in **MERN Stack** and **Java Spring Boot**
+- 🛠️ Skilled in building **REST APIs, authentication systems, dashboards, and scalable web apps**
+- 📚 Currently completing **B.Sc. CSIT**
+- 🌱 Interested in **backend architecture, scalable systems, and modern web development**
+- 🤝 Open to **internships, freelance work, and collaboration opportunities**
+
+---
+
+## 💼 Experience
+
+### **MERN Developer Intern — CloudTech Services, Kathmandu**
 **Feb 2025 – Jun 2025**
-- Contributed to a US-based health insurance management system using the **MERN stack**
-- Developed **role-based dashboards** and optimized APIs for performance and data validation
-- Maintained and refactored production codebase to improve **stability and scalability**
+- Worked on a US-based health insurance management system
+- Built and improved role-based dashboards using the MERN stack
+- Optimized APIs, validation flows, and production code stability
 
-### 🔹 Project Lead / Full Stack Developer – College Projects & Hackathons
-**2024 – 2026**
-- Led cross-functional teams in academic and national-level hackathon projects
-- Designed **REST APIs, database schemas, and frontend architectures**
-- Coordinated task execution, code reviews, and feature integration across teams
+### **Project Lead / Full Stack Developer — College Projects & Hackathons**
+**2024 – Present**
+- Led teams in academic and hackathon projects
+- Designed APIs, schemas, and frontend architecture
+- Managed feature planning, task coordination, and integration
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🎯 [NagarAlert – Civic Issue Reporting Platform](https://github.com/Naresh-Bohara/NagarAlert)
-**MERN Stack | JWT Authentication | Geolocation APIs**
-- Built platform for reporting municipal issues with **geolocation and photo evidence**
-- Developed **role-based dashboards** and interactive map visualization
-- Implemented **secure REST APIs** with JWT authentication
+### **NagarAlert — Civic Issue Reporting Platform**
+**Tech:** MERN Stack, JWT, Geolocation APIs  
+- Municipal issue reporting with location and photo evidence
+- Role-based dashboards and interactive map features
+- Secure API architecture with JWT authentication
 
-### 📚 [LMS-Nepal – Learning Management System](https://github.com/Naresh-Bohara/LMS-Nepal)
-**Next.js | Node.js | MongoDB | eSewa Integration**
-- Built comprehensive learning platform with **course management and progress tracking**
-- Integrated **eSewa payment gateway** and DRM-protected video streaming
-- Developed **real-time chat system** and analytics dashboard
-
-### 🛒 [Farwest Tech Store – E-commerce Platform](http://farwesttechstore.com.np)
-**MERN Stack | Payment Integration | Admin Dashboard**
-- Developed full-featured e-commerce platform with product catalog and cart system
-- Implemented **secure payment integration** and order management
-- Built comprehensive **admin dashboard** with inventory analytics
+🔗 [GitHub Repository](https://github.com/Naresh-Bohara/NagarAlert)
 
 ---
 
-## 🛠️ Technical Skills
+### **LMS-Nepal — Learning Management System**
+**Tech:** Next.js, Node.js, MongoDB, eSewa  
+- Course management and student progress tracking
+- eSewa payment integration and protected content flow
+- Real-time chat and analytics dashboard
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, Java, Spring Boot |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
-| **Testing** | Jest, Vitest |
-| **Tools** | Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA, Jira |
-| **Cloud & Deployment** | Vercel, Netlify, Heroku |
-| **Concepts** | REST APIs, JWT Authentication, MVC, Microservices, Agile/Scrum |
+🔗 [GitHub Repository](https://github.com/Naresh-Bohara/LMS-Nepal)
 
 ---
 
-## 📚 Education & Certifications
+### **Farwest Tech Store — E-commerce Platform**
+**Tech:** MERN Stack, Payment Integration, Admin Dashboard  
+- Complete product, cart, and order management system
+- Secure payment flow and admin-level inventory management
+- Dashboard with business and product insights
 
-**🎓 B.Sc. CSIT** – Far Western University, Kanchanpur, Nepal *(2022 - 2026)*  
-*Relevant Coursework: Data Structures & Algorithms, DBMS, Web Technologies, Software Engineering*
-
-**📜 Certifications:**
-- The Complete Full-Stack Web Development Bootcamp – Udemy
-- MERN Stack Development Training – Broadway Infosys
-- Java Training Package – Broadway Infosys
+🔗 [Live Website](http://farwesttechstore.com.np)
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
+
+### Frontend
+`React.js` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Bootstrap`
+
+### Backend
+`Node.js` `Express.js` `Java` `Spring Boot`
+
+### Databases
+`MongoDB` `MySQL` `PostgreSQL`
+
+### Tools & Platforms
+`Git` `GitHub` `Docker` `Postman` `VS Code` `IntelliJ IDEA` `Jira`
+
+### Core Concepts
+`REST APIs` `JWT Authentication` `MVC` `Microservices` `Agile/Scrum`
+
+---
+
+## 📚 Education
+
+**B.Sc. CSIT**  
+Far Western University, Nepal  
+**2022 – 2026**
+
+---
+
+## 📜 Certifications
+
+- The Complete Full-Stack Web Development Bootcamp — Udemy
+- MERN Stack Development Training — Broadway Infosys
+- Java Training Package — Broadway Infosys
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=radical&hide_border=true" alt="Naresh's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=radical&hide_border=true" alt="Naresh Bohara GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Bohara&theme=radical&hide_border=true" alt="Naresh Bohara GitHub streak" height="170" />
 </p>
 
+<!-- Uncomment this later if Top Languages starts working reliably
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Bohara&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="170" />
 </p>
+-->
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/naresh-bohara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/nareshbohara113" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://naresh-bohara.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:nareshbohara.np@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Naresh-Bohara" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/naresh-bohara">LinkedIn</a> •
+  <a href="https://github.com/Naresh-Bohara">GitHub</a> •
+  <a href="https://naresh-bohara.com.np">Portfolio</a> •
+  <a href="mailto:nareshbohara.contact@gmail.com">Email</a>
 </p>
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon from [nareshbytes.com](http://nareshbytes.com)
-<!-- BLOG-POST-LIST:END -->
+## ✨ Fun Fact
+
+I enjoy turning ideas into real products — from hackathon prototypes to full-stack applications.
 
 ---
 
-## ⚡ Fun Fact
-> **JavaScript was created in just 10 days!** Brendan Eich developed JavaScript in only 10 days in 1995. Initially called Mocha, it's now one of the most widely used programming languages in the world.
-
----
-
-<div align="center">
-  
-  **Open to collaboration on interesting MERN/Spring Boot projects!** 🤝
-  
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNaresh-Bohara&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNaresh-Bohara)
-  
-</div>
+<p align="center">
+  <b>Open to collaboration, internships, and exciting full-stack opportunities.</b>
+</p>
