@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Spring Boot</h3>
 
 <p align="center">
-Building scalable web applications and solving real-world problems with modern technologies.
+Building scalable and modern web applications
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@ Building scalable web applications and solving real-world problems with modern t
 # 🚀 About Me
 
 - 💻 Full Stack Developer specializing in **MERN Stack & Spring Boot**
-- 🔧 Experienced in building **REST APIs, authentication systems, dashboards, and scalable platforms**
-- 🧠 Strong understanding of **backend architecture, databases, and modern development practices**
-- 🎓 Currently pursuing **B.Sc. CSIT (Far Western University)**
-- 🤝 Open to **internships, freelance work, and collaboration**
+- 🔧 Experienced in **REST APIs, authentication, scalable systems**
+- 🧠 Strong knowledge of **backend architecture and databases**
+- 🎓 Currently pursuing **B.Sc. CSIT**
+- 🤝 Open to **internships, freelance work, and collaborations**
 
 ---
 
@@ -25,9 +25,10 @@ Building scalable web applications and solving real-world problems with modern t
 
 ### 🚨 NagarAlert – Civic Issue Reporting Platform
 **Tech:** MERN Stack, JWT, Geolocation APIs  
-- Citizens can report municipal issues with location and photos  
-- Role-based dashboards for municipality staff  
-- Secure REST APIs with authentication  
+
+- Citizens report municipal issues with photo & location
+- Role-based dashboards for municipality staff
+- Secure REST APIs with authentication
 
 🔗 https://github.com/Naresh-Bohara/NagarAlert
 
@@ -35,20 +36,21 @@ Building scalable web applications and solving real-world problems with modern t
 
 ### 📚 LMS-Nepal – Learning Management System
 **Tech:** Next.js, Node.js, MongoDB, eSewa  
-- Course management and student progress tracking  
-- Integrated **eSewa payment gateway**  
-- Real-time chat and analytics dashboard  
+
+- Course management & progress tracking
+- eSewa payment integration
+- Real-time chat and analytics dashboard
 
 🔗 https://github.com/Naresh-Bohara/LMS-Nepal
 
 ---
 
 ### 🛒 Farwest Tech Store – E-commerce Platform
-**Tech:** MERN Stack, Admin Dashboard  
+**Tech:** MERN Stack
 
-- Product catalog and order management system  
-- Payment integration and admin analytics  
-- Inventory and business management tools  
+- Product catalog and order management
+- Admin dashboard & analytics
+- Payment integration
 
 🌐 http://farwesttechstore.com.np
 
@@ -57,40 +59,32 @@ Building scalable web applications and solving real-world problems with modern t
 # 🛠 Tech Stack
 
 ### Frontend
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,html,css"/>
-</p>
 
 ### Backend
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring"/>
-</p>
 
 ### Databases
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-</p>
 
-### Tools & Platforms
-<p>
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
+
+---
+
+# 📈 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Bohara&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📚 Education
+# 🐍 Contribution Snake
 
-🎓 **B.Sc. CSIT**  
-Far Western University, Nepal  
-2022 – 2026
-
----
-
-# 📜 Certifications
-
-- MERN Stack Development Training – Broadway Infosys  
-- Java Training Package – Broadway Infosys  
-- Full-Stack Web Development Bootcamp – Udemy  
+<p align="center">
+<img src="https://raw.githubusercontent.com/Naresh-Bohara/Naresh-Bohara/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -99,14 +93,14 @@ Far Western University, Nepal
 <p align="center">
 
 <a href="https://linkedin.com/in/naresh-bohara">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/Naresh-Bohara">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:nareshbohara.contact@gmail.com">
+<a href="mailto:nareshbohara.np@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
@@ -118,20 +112,12 @@ Far Western University, Nepal
 
 ---
 
-# 📈 GitHub Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naresh-Bohara&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
 # ⚡ Fun Fact
 
-I enjoy turning ideas into **real working products** — from hackathon prototypes to production-ready applications.
+I enjoy turning ideas into **real production-ready applications** 🚀
 
 ---
 
 <p align="center">
-<b>Open to collaboration on exciting full-stack projects 🚀</b>
+<b>Open to collaboration on interesting full-stack projects</b>
 </p>
