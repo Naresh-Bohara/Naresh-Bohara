@@ -1,102 +1,114 @@
 <h1 align="center">Hi 👋, I'm Naresh Bohara</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Spring Boot</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Spring Boot | Python</h3>
 
 <p align="center">
-Building scalable, secure, and production-ready web applications.
+Building scalable backend systems, secure APIs, and modern web applications.
 </p>
 
 <p align="center">
-📍 Dhangadhi, Nepal
+📍 Nepal
 </p>
 
 <p align="center">
 
-<a href="mailto:nareshbohara.contact@gmail.com" target="_blank">
+<a href="mailto:nareshbohara.contact@gmail.com">
 <img src="https://img.shields.io/badge/Email-nareshbohara.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/naresh-bohara" target="_blank">
+<a href="https://linkedin.com/in/naresh-bohara">
 <img src="https://img.shields.io/badge/LinkedIn-Naresh%20Bohara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Naresh-Bohara" target="_blank">
+<a href="https://github.com/Naresh-Bohara">
 <img src="https://img.shields.io/badge/GitHub-Naresh%20Bohara-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://naresh-bohara.com.np" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://naresh-bohara.com.np">
+<img src="https://img.shields.io/badge/Portfolio-naresh--bohara.com.np-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Full Stack Developer experienced in building **modern web applications using MERN Stack and Java Spring Boot**.
+I am a **Full Stack Developer** focused on building **scalable web applications and backend systems**.
 
-I focus on building **secure APIs, scalable backend systems, and responsive frontend applications** that solve real-world problems.
+My work includes designing **REST APIs, authentication systems, and modern frontend interfaces** using industry technologies.
 
-Currently pursuing **B.Sc. CSIT** and actively looking for **software engineering internships and opportunities**.
+I previously worked as a **MERN Developer Intern at CloudTech Services**, contributing to a **US-based health insurance management platform**.
+
+Currently expanding my backend expertise with **Python and Django** while completing **B.Sc. CSIT (Far Western University)**.
+
+I am actively looking for **software engineering internships and full-time opportunities**.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technical Skills
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap"/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django"/>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
-### Tools
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
 
 ---
 
-## 🏆 Projects
+# 🏆 Featured Projects
 
 ### 🚨 NagarAlert — Civic Issue Reporting Platform
-**MERN Stack | JWT Authentication | Geolocation**
+**MERN Stack | JWT Authentication | Geolocation APIs**
 
-A platform where citizens report municipal issues with location and photos.
+A civic reporting platform allowing citizens to report municipal issues with location and images.
 
-Key Features:
+Key Highlights:
 - Role-based dashboards
 - Location-based issue reporting
-- Secure REST APIs
+- Secure REST API architecture
 
-<a href="https://github.com/Naresh-Bohara/NagarAlert" target="_blank">View Project</a>
+🔗  
+https://github.com/Naresh-Bohara/NagarAlert
 
 ---
 
 ### 📚 LMS-Nepal — Learning Management System
-**Next.js | Node.js | MongoDB | eSewa**
+**Next.js | Node.js | MongoDB | eSewa Payment**
 
-A complete learning platform with payment integration and analytics.
+A modern learning platform supporting course management, payments, and analytics.
 
-Key Features:
+Key Highlights:
 - Course management system
-- eSewa payment integration
+- eSewa payment gateway integration
 - Real-time chat and analytics dashboard
 
-<a href="https://github.com/Naresh-Bohara/LMS-Nepal" target="_blank">View Project</a>
+🔗  
+https://github.com/Naresh-Bohara/LMS-Nepal
 
 ---
 
 ### 🛒 Farwest Tech Store — E-commerce Platform
-**MERN Stack**
+**MERN Stack | Admin Dashboard**
 
-Complete e-commerce platform with admin dashboard and product management.
+An e-commerce system for robotics and electronics products.
 
-<a href="http://farwesttechstore.com.np" target="_blank">Visit Website</a>
+Key Highlights:
+- Product catalog and cart system
+- Order and inventory management
+- Admin analytics dashboard
+
+🌐  
+http://farwesttechstore.com.np
 
 ---
 
-## 📈 GitHub Streak
+# 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Bohara&theme=tokyonight&hide_border=true"/>
@@ -104,21 +116,30 @@ Complete e-commerce platform with admin dashboard and product management.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 **B.Sc. CSIT**  
 Far Western University  
 2022 – 2026
 
+Relevant Coursework
+- Data Structures & Algorithms
+- Database Management Systems
+- Web Technologies
+- Software Engineering
+
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-📧 Email: <a href="mailto:nareshbohara.contact@gmail.com">nareshbohara.contact@gmail.com</a>  
-🌐 Portfolio: <a href="https://naresh-bohara.com.np" target="_blank">naresh-bohara.com.np</a>
+📧 Email  
+**nareshbohara.contact@gmail.com**
+
+🌐 Portfolio  
+**https://naresh-bohara.com.np**
 
 ---
 
 <p align="center">
-<b>Open to internships, freelance work, and full-time opportunities.</b>
+<b>Open to internships, freelance projects, and software engineering roles.</b>
 </p>
