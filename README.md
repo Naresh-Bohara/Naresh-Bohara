@@ -6,7 +6,7 @@ Building scalable backend systems, secure APIs, and modern web applications.
 </p>
 
 <p align="center">
-📍 Nepal
+📍 Dhangadhi, Nepal
 </p>
 
 <p align="center">
