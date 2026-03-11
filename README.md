@@ -11,19 +11,19 @@ Building scalable backend systems, secure APIs, and modern web applications.
 
 <p align="center">
 
-<a href="mailto:nareshbohara.contact@gmail.com">
+<a href="mailto:nareshbohara.contact@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-nareshbohara.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/naresh-bohara">
+<a href="https://linkedin.com/in/naresh-bohara" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Naresh%20Bohara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Naresh-Bohara">
+<a href="https://github.com/Naresh-Bohara" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Naresh%20Bohara-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://naresh-bohara.com.np">
+<a href="https://naresh-bohara.com.np" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-naresh--bohara.com.np-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
@@ -33,85 +33,113 @@ Building scalable backend systems, secure APIs, and modern web applications.
 
 # 🚀 About Me
 
-I am a **Full Stack Developer** focused on building **scalable web applications and backend systems**.
+I am a **Full Stack Developer** focused on building **scalable backend systems, secure APIs, and modern web applications**.
 
-My work includes designing **REST APIs, authentication systems, and modern frontend interfaces** using industry technologies.
+💼 Former **MERN Stack Developer Intern at CloudTech Services**  
+🌍 Worked on a **US-based Health Insurance Management Platform**
 
-I previously worked as a **MERN Developer Intern at CloudTech Services**, contributing to a **US-based health insurance management platform**.
+Currently expanding backend expertise with:
 
-Currently expanding my backend expertise with **Python and Django** while completing **B.Sc. CSIT (Far Western University)**.
+- **Python & Django**
+- **Spring Boot**
+- **Advanced System Design**
 
-I am actively looking for **software engineering internships and full-time opportunities**.
+🎓 Final year **B.Sc. CSIT — Far Western University**
+
+📢 **Actively looking for Software Engineering Internships & Full-Time Roles**
 
 ---
 
 # 🛠 Technical Skills
 
 ### Frontend
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap"/>
+</p>
 
 ### Backend
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django"/>
+</p>
 
 ### Databases
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
 
-### Tools & Platforms
+### Tools
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
+</p>
 
 ---
 
 # 🏆 Featured Projects
 
-### 🚨 NagarAlert — Civic Issue Reporting Platform
+## 🚨 NagarAlert — Civic Issue Reporting Platform
 **MERN Stack | JWT Authentication | Geolocation APIs**
 
-A civic reporting platform allowing citizens to report municipal issues with location and images.
+A civic platform allowing citizens to report municipal issues with location and images.
 
-Key Highlights:
-- Role-based dashboards
-- Location-based issue reporting
-- Secure REST API architecture
+Key Features:
+
+• Role-based dashboards  
+• Location-based issue reporting  
+• Secure REST API architecture  
 
 🔗  
 https://github.com/Naresh-Bohara/NagarAlert
 
 ---
 
-### 📚 LMS-Nepal — Learning Management System
+## 📚 LMS-Nepal — Learning Management System
 **Next.js | Node.js | MongoDB | eSewa Payment**
 
-A modern learning platform supporting course management, payments, and analytics.
+Modern learning platform supporting course management and payments.
 
-Key Highlights:
-- Course management system
-- eSewa payment gateway integration
-- Real-time chat and analytics dashboard
+Key Features:
+
+• Course management system  
+• eSewa payment gateway  
+• Real-time chat system  
 
 🔗  
 https://github.com/Naresh-Bohara/LMS-Nepal
 
 ---
 
-### 🛒 Farwest Tech Store — E-commerce Platform
+## 🛒 Farwest Tech Store — E-commerce Platform
 **MERN Stack | Admin Dashboard**
 
-An e-commerce system for robotics and electronics products.
+E-commerce platform for robotics and electronics products.
 
-Key Highlights:
-- Product catalog and cart system
-- Order and inventory management
-- Admin analytics dashboard
+Key Features:
+
+• Product catalog and cart  
+• Order & inventory management  
+• Admin analytics dashboard  
 
 🌐  
 http://farwesttechstore.com.np
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naresh-Bohara&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -123,23 +151,24 @@ Far Western University
 2022 – 2026
 
 Relevant Coursework
-- Data Structures & Algorithms
-- Database Management Systems
-- Web Technologies
-- Software Engineering
+
+• Data Structures & Algorithms  
+• Database Management Systems  
+• Software Engineering  
+• Web Technologies
 
 ---
 
 # 📫 Contact
 
 📧 Email  
-**nareshbohara.contact@gmail.com**
+nareshbohara.contact@gmail.com
 
 🌐 Portfolio  
-**https://naresh-bohara.com.np**
+https://naresh-bohara.com.np
 
 ---
 
 <p align="center">
-<b>Open to internships, freelance projects, and software engineering roles.</b>
+<b>Open to internships, freelance projects, and software engineering opportunities.</b>
 </p>
