@@ -86,7 +86,7 @@ Final year **B.Sc. CSIT — Far Western University**
 
 A civic platform enabling citizens to report municipal issues with location and images.
 
-Key Features:
+**Key Features:**
 - Role‑based dashboards for citizens, ward officers, and admins
 - Location‑based issue reporting with image uploads
 - Secure REST API architecture
@@ -102,7 +102,7 @@ Key Features:
 
 Modern learning platform with course management and integrated payments.
 
-Key Features:
+**Key Features:**
 - Course creation and enrollment system
 - eSewa payment gateway integration
 - Real‑time chat for student‑instructor communication
@@ -118,7 +118,7 @@ Key Features:
 
 E‑commerce platform specializing in robotics and electronics products.
 
-Key Features:
+**Key Features:**
 - Product catalog with search and cart functionality
 - Order and inventory management
 - Admin dashboard with sales analytics
@@ -136,10 +136,6 @@ Key Features:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
----
-
-## GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 </p>
@@ -152,7 +148,7 @@ Key Features:
 Far Western University  
 2022 – 2026
 
-Relevant Coursework:
+**Relevant Coursework:**
 - Data Structures & Algorithms
 - Database Management Systems
 - Software Engineering
@@ -162,11 +158,8 @@ Relevant Coursework:
 
 ## Contact
 
-📧 **Email**  
-[nareshbohara.contact@gmail.com](mailto:nareshbohara.contact@gmail.com)
-
-🌐 **Portfolio**  
-[naresh-bohara.com.np](https://naresh-bohara.com.np)
+📧 **Email:** [nareshbohara.contact@gmail.com](mailto:nareshbohara.contact@gmail.com)  
+🌐 **Portfolio:** [naresh-bohara.com.np](https://naresh-bohara.com.np)
 
 ---
 
