@@ -84,14 +84,12 @@ Final year **B.Sc. CSIT — Far Western University**
 ### NagarAlert — Civic Issue Reporting Platform
 **MERN Stack | JWT Authentication | Geolocation APIs**
 
-A civic platform enabling citizens to report municipal issues with location and images.
+A civic platform that allows citizens to report municipal issues with location and images.
 
 **Key Features:**
 - Role‑based dashboards for citizens, ward officers, and admins
 - Location‑based issue reporting with image uploads
 - Secure REST API architecture
-
-**Impact:** Streamlined issue tracking for a municipality pilot, reducing manual reporting time by an estimated 40%.
 
 🔗 [View on GitHub](https://github.com/Naresh-Bohara/NagarAlert)
 
@@ -100,14 +98,12 @@ A civic platform enabling citizens to report municipal issues with location and 
 ### LMS-Nepal — Learning Management System
 **Next.js | Node.js | MongoDB | eSewa Payment**
 
-Modern learning platform with course management and integrated payments.
+A modern learning platform with course management and integrated payment processing.
 
 **Key Features:**
 - Course creation and enrollment system
 - eSewa payment gateway integration
 - Real‑time chat for student‑instructor communication
-
-**Impact:** Used by 100+ students in a pilot program; 90% reported improved accessibility to course materials.
 
 🔗 [View on GitHub](https://github.com/Naresh-Bohara/LMS-Nepal)
 
@@ -116,16 +112,14 @@ Modern learning platform with course management and integrated payments.
 ### Farwest Tech Store — E‑commerce Platform
 **MERN Stack | Admin Dashboard**
 
-E‑commerce platform specializing in robotics and electronics products.
+An e‑commerce platform built for robotics and electronics products.
 
 **Key Features:**
 - Product catalog with search and cart functionality
 - Order and inventory management
 - Admin dashboard with sales analytics
 
-**Impact:** Live deployment with 50+ product listings; streamlined order processing for a local electronics retailer.
-
-🌐 [Live Demo](http://farwesttechstore.com.np)
+🔗 [View on GitHub](https://github.com/Naresh-Bohara/Farwest-Tech-Store) *(if repository exists – adjust link accordingly)*
 
 ---
 
