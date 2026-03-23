@@ -10,24 +10,30 @@ Building scalable backend systems, secure APIs, and modern web applications.
 </p>
 
 <p align="center">
-
 <a href="mailto:nareshbohara.contact@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-nareshbohara.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-nareshbohara.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naresh"/>
 </a>
-
 <a href="https://linkedin.com/in/naresh-bohara" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Naresh%20Bohara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Naresh%20Bohara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/Naresh-Bohara" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Naresh%20Bohara-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Naresh%20Bohara-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://naresh-bohara.com.np" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-naresh--bohara.com.np-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-naresh--bohara.com.np-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
-
 </p>
+
+---
+
+## 📖 Table of Contents
+
+- [About Me](#about-me)
+- [Technical Skills](#technical-skills)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Education](#education)
+- [Contact](#contact)
 
 ---
 
@@ -53,22 +59,22 @@ Final year **B.Sc. CSIT — Far Western University**
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Frontend technologies: React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django" alt="Backend technologies: Node.js, Express, Java, Spring, Python, Django"/>
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases: MongoDB, MySQL, PostgreSQL"/>
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" alt="Tools: Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA"/>
 </p>
 
 ---
@@ -87,7 +93,7 @@ Key Features:
 
 **Impact:** Streamlined issue tracking for a municipality pilot, reducing manual reporting time by an estimated 40%.
 
-🔗 [GitHub Repository](https://github.com/Naresh-Bohara/NagarAlert)
+🔗 [View on GitHub](https://github.com/Naresh-Bohara/NagarAlert)
 
 ---
 
@@ -103,7 +109,7 @@ Key Features:
 
 **Impact:** Used by 100+ students in a pilot program; 90% reported improved accessibility to course materials.
 
-🔗 [GitHub Repository](https://github.com/Naresh-Bohara/LMS-Nepal)
+🔗 [View on GitHub](https://github.com/Naresh-Bohara/LMS-Nepal)
 
 ---
 
@@ -126,8 +132,8 @@ Key Features:
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats: Naresh Bohara's contributions and repositories"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 ---
@@ -135,7 +141,7 @@ Key Features:
 ## GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
 ---
@@ -157,10 +163,10 @@ Relevant Coursework:
 ## Contact
 
 📧 **Email**  
-nareshbohara.contact@gmail.com
+[nareshbohara.contact@gmail.com](mailto:nareshbohara.contact@gmail.com)
 
 🌐 **Portfolio**  
-https://naresh-bohara.com.np
+[naresh-bohara.com.np](https://naresh-bohara.com.np)
 
 ---
 
