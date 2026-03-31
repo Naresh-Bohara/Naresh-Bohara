@@ -119,7 +119,7 @@ An e‑commerce platform built for robotics and electronics products.
 - Order and inventory management
 - Admin dashboard with sales analytics
 
-🔗 [View on GitHub](https://github.com/Naresh-Bohara/Farwest-Tech-Store) *(if repository exists – adjust link accordingly)*
+🔗 [View on GitHub](https://github.com/Naresh-Bohara/FarwestTechStore) 
 
 ---
 
