@@ -11,138 +11,114 @@ Building scalable backend systems, secure APIs, and modern web applications.
 
 <p align="center">
 <a href="mailto:nareshbohara.contact@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-nareshbohara.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naresh"/>
+<img src="https://img.shields.io/badge/Email-nareshbohara.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/naresh-bohara" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Naresh%20Bohara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Naresh%20Bohara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Naresh-Bohara" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Naresh%20Bohara-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Naresh%20Bohara-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://naresh-bohara.com.np" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-naresh--bohara.com.np-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-naresh--bohara.com.np-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 📖 Table of Contents
-
-- [About Me](#about-me)
-- [Technical Skills](#technical-skills)
-- [Featured Projects](#featured-projects)
-- [GitHub Stats](#github-stats)
-- [Education](#education)
-- [Contact](#contact)
-
----
-
-## About Me
+## 🚀 About Me
 
 I am a **Full Stack Developer** focused on building **scalable backend systems, secure APIs, and modern web applications**.
 
-- Former **MERN Stack Developer Intern at CloudTech Services**  
-- Worked on a **US‑based Health Insurance Management Platform**
+- 💼 Former **MERN Stack Developer Intern at CloudTech Services**
+- 🌍 Worked on a **US-based Health Insurance Management Platform**
+- 📚 Currently learning:
+  - Python & Django
+  - Spring Boot
+  - Advanced System Design
 
-Currently expanding backend expertise with:
-- Python & Django
-- Spring Boot
-- Advanced System Design
-
-Final year **B.Sc. CSIT — Far Western University**
-
-**Actively looking for Software Engineering Internships & Full‑Time Roles**
+🎯 **Actively seeking Software Engineering Internships & Full-Time Opportunities**
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Frontend technologies: React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django" alt="Backend technologies: Node.js, Express, Java, Spring, Python, Django"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django"/>
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases: MongoDB, MySQL, PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" alt="Tools: Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
 </p>
 
 ---
 
-## Featured Projects
+## 💻 Featured Projects
 
-### NagarAlert — Civic Issue Reporting Platform
+### 🚀 NagarAlert — Civic Issue Reporting Platform
 **MERN Stack | JWT Authentication | Geolocation APIs**
 
-A civic platform that allows citizens to report municipal issues with location and images.
+- Role-based dashboards (citizens, officers, admins)
+- Location-based issue reporting with image uploads
+- Secure REST API architecture  
 
-**Key Features:**
-- Role‑based dashboards for citizens, ward officers, and admins
-- Location‑based issue reporting with image uploads
-- Secure REST API architecture
-
-🔗 [View on GitHub](https://github.com/Naresh-Bohara/NagarAlert)
+🔗 https://github.com/Naresh-Bohara/NagarAlert
 
 ---
 
-### LMS-Nepal — Learning Management System
+### 📚 LMS-Nepal — Learning Management System
 **Next.js | Node.js | MongoDB | eSewa Payment**
 
-A modern learning platform with course management and integrated payment processing.
+- Course creation & enrollment system
+- eSewa payment integration
+- Real-time chat system  
 
-**Key Features:**
-- Course creation and enrollment system
-- eSewa payment gateway integration
-- Real‑time chat for student‑instructor communication
-
-🔗 [View on GitHub](https://github.com/Naresh-Bohara/LMS-Nepal)
+🔗 https://github.com/Naresh-Bohara/LMS-Nepal
 
 ---
 
-### Farwest Tech Store — E‑commerce Platform
+### 🛒 Farwest Tech Store — E-commerce Platform
 **MERN Stack | Admin Dashboard**
 
-An e‑commerce platform built for robotics and electronics products.
+- Product catalog, cart & search
+- Order & inventory management
+- Admin analytics dashboard  
 
-**Key Features:**
-- Product catalog with search and cart functionality
-- Order and inventory management
-- Admin dashboard with sales analytics
-
-🔗 [View on GitHub](https://github.com/Naresh-Bohara/FarwestTechStore) 
+🔗 https://github.com/Naresh-Bohara/FarwestTechStore
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats: Naresh Bohara's contributions and repositories"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Sc. CSIT**  
-Far Western University  
-2022 – 2026
+Far Western University (2022 – 2026)
 
-**Relevant Coursework:**
+**Coursework:**
 - Data Structures & Algorithms
 - Database Management Systems
 - Software Engineering
@@ -150,13 +126,13 @@ Far Western University
 
 ---
 
-## Contact
+## 📬 Contact
 
-📧 **Email:** [nareshbohara.contact@gmail.com](mailto:nareshbohara.contact@gmail.com)  
-🌐 **Portfolio:** [naresh-bohara.com.np](https://naresh-bohara.com.np)
+📧 Email: nareshbohara.contact@gmail.com  
+🌐 Portfolio: https://naresh-bohara.com.np  
 
 ---
 
 <p align="center">
-<b>Open to internships, freelance projects, and software engineering opportunities.</b>
+<b>🚀 Open to internships, freelance projects, and full-time roles</b>
 </p>
