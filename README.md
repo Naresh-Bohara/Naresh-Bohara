@@ -126,12 +126,12 @@ An e‑commerce platform built for robotics and electronics products.
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats: Naresh Bohara's contributions and repositories"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naresh-Bohara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Naresh's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-Bohara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Top languages" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Naresh-Bohara&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
